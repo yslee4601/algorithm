@@ -1,0 +1,16 @@
+# Eclipse 환경 설정 파일 및 빌드 폴더 (작성하신 내용 포함)
+.settings/
+.classpath
+.project
+bin/
+
+# 웹 프로젝트 빌드 결과물 폴더 (컴퓨터마다 자동 생성됨)
+build/
+target/
+.metadata/
+
+# OS 및 에디터 임시 파일
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
